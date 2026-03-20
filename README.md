@@ -8,7 +8,7 @@ The system uses PWM control techniques to regulate motor speed and improve effic
 ## Features
 - PWM-based motor speed control
 - Real-time monitoring using OLED display
-- Stable and efficient performance
+- Improved system stability and efficiency
 
 ## Components Used
 - Arduino
@@ -20,6 +20,9 @@ The system uses PWM control techniques to regulate motor speed and improve effic
 - Led a team of 6 members
 - Worked on hardware integration
 - Tested and improved system performance
+
+## Images
+(Add your project images here)
 
 ## Applications
 - Electric vehicles
