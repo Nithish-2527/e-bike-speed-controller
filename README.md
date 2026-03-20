@@ -22,7 +22,8 @@ The system uses PWM control techniques to regulate motor speed and improve effic
 - Tested and improved system performance
 
 ## Images
-(Add your project images here)
+ebike_project.jpg
+Circuit Diagram.jpeg
 
 ## Applications
 - Electric vehicles
