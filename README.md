@@ -20,3 +20,4 @@ This project helped me improve my knowledge of embedded systems, motor control, 
 - `Report.pdf`
 - `ebike_project.jpg`
 - `Circuit_Diagram.jpeg`
+- `Ebike_Speed_Controller_System.ino`
